@@ -1,7 +1,10 @@
-StudioMove Pole class statistics
+# StudioMove Pole class reservation parser
 
-Parses a plain text copy&paste from Studio Move pole class reservation list
-into csv/json/sqlite for analysis.
+Parses a plain text copy&paste from Studio Move pole class reservation list web page
+into something more usefull formats: csv, json and sqlite3
 
-Example gnuplot script to output how many times a particular class has been attended.
+There is also a example gnuplot script to output some example statistics from the data.
 
+Run: gnuplot5 output.gnuplot to generate some simple bar charts.
+
+License: GPLv2
