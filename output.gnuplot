@@ -5,7 +5,7 @@ set style data histograms
 set ytics 10
 set ylabel "Times"
 set border linewidth 2
-set terminal pngcairo size 800,600 enhanced font "DejaVu Sans,16"
+set terminal pngcairo size 1920,800 enhanced font "DejaVu Sans,14"
 
 set bmargin 15
 set output 'class-times.png'
